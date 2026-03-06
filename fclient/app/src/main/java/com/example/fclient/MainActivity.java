@@ -82,6 +82,9 @@ public class MainActivity extends AppCompatActivity implements TransactionEvents
     }
 
     public void onButtonClick(View v) {
+        byte[] key = stringToHex("0123456789ABCDEF0123456789ABCDE0");
+        byte[] enc = encrypt(key, stringToHex("000000000000000102"));
+        byte[] dec = decrypt(key, enc);
         byte[] trd = stringToHex("9F0206000000000100");
         transaction(trd);
     }
