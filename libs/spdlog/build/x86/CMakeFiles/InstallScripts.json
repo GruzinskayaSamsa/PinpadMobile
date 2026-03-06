@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/Samsa/AndroidStudioProjects/libs/spdlog/build/x86/cmake_install.cmake",
+		"/home/Samsa/AndroidStudioProjects/libs/spdlog/build/x86/example/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

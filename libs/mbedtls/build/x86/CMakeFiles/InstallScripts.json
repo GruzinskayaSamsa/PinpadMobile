@@ -1,0 +1,14 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/Samsa/AndroidStudioProjects/libs/mbedtls/build/x86/cmake_install.cmake",
+		"/home/Samsa/AndroidStudioProjects/libs/mbedtls/build/x86/framework/cmake_install.cmake",
+		"/home/Samsa/AndroidStudioProjects/libs/mbedtls/build/x86/include/cmake_install.cmake",
+		"/home/Samsa/AndroidStudioProjects/libs/mbedtls/build/x86/3rdparty/cmake_install.cmake",
+		"/home/Samsa/AndroidStudioProjects/libs/mbedtls/build/x86/3rdparty/everest/cmake_install.cmake",
+		"/home/Samsa/AndroidStudioProjects/libs/mbedtls/build/x86/3rdparty/p256-m/cmake_install.cmake",
+		"/home/Samsa/AndroidStudioProjects/libs/mbedtls/build/x86/library/cmake_install.cmake",
+		"/home/Samsa/AndroidStudioProjects/libs/mbedtls/build/x86/pkgconfig/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
